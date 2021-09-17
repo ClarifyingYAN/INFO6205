@@ -45,3 +45,10 @@ NEU Tunnel System \(updated\)\.kml
 NEU Tunnel System latest\.kml
 
 *.kml
+
+# Package Files #
+*.nar
+
+# my
+out/
+.idea/
