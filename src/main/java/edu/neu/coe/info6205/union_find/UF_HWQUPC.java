@@ -7,7 +7,10 @@
  */
 package edu.neu.coe.info6205.union_find;
 
+import javafx.util.Pair;
+
 import java.util.Arrays;
+import java.util.Random;
 
 /**
  * Height-weighted Quick Union with Path Compression
@@ -82,6 +85,13 @@ public class UF_HWQUPC implements UF {
         validate(p);
         int root = p;
         // TO BE IMPLEMENTED
+        while (parent[root] != root) {
+            if (pathCompression) // do path compression only when it's true
+                doPathCompression(p);
+            root = parent[root];
+        }
+
+
         return root;
     }
 
@@ -169,6 +179,13 @@ public class UF_HWQUPC implements UF {
 
     private void mergeComponents(int i, int j) {
         // TO BE IMPLEMENTED make shorter root point to taller one
+        if (height[i] < height[j]) {
+            updateParent(i, j);
+            updateHeight(j, i);
+        } else {
+            updateParent(j, i);
+            updateHeight(i, j);
+        }
     }
 
     /**
@@ -176,5 +193,57 @@ public class UF_HWQUPC implements UF {
      */
     private void doPathCompression(int i) {
         // TO BE IMPLEMENTED update parent to value of grandparent
+        parent[i] = parent[parent[i]];
+    }
+
+    /**
+     * print the number of connections to connect all sites
+     * @param n
+     * @return
+     */
+    public static Pair<Integer, Integer> count(int n) {
+        int cnt=0; // number of connections
+        int cntPairs=0; // number of random pairs
+        UF_HWQUPC uf = new UF_HWQUPC(n);
+        while (uf.components()!=1) { // All sites are connected when there is only one component.
+            // generate random pair between 0 and n-1
+            int p1 = new Random().nextInt(n);
+            int p2 = new Random().nextInt(n);
+            if (!uf.connected(p1, p2)) {
+                uf.union(p1, p2);
+                cnt++;
+            }
+            cntPairs++;
+        }
+
+        return new Pair<>(cnt, cntPairs);
+    }
+
+    /**
+     * Run n times to get average value
+     * @param m // m runs
+     * @param n // size
+     * @return
+     */
+    public static Pair<Integer, Integer> getAverageValue(int m, int n) {
+        int totalCnt = 0;
+        int totalCntPairs = 0;
+        for (int i = 0; i < m; i++) {
+            Pair<Integer, Integer> pair = UF_HWQUPC.count(n);
+            totalCnt += pair.getKey();
+            totalCntPairs += pair.getValue();
+        }
+
+        return new Pair<>(totalCnt/m, totalCntPairs/m);
+    }
+
+    public static void main(String[] args) {
+        for (int i = 0; i < 8; i++) { // n = 1000, 2000, 4000, 8000, 16000
+            int n = (int) Math.pow(2, i)*1000;
+            Pair<Integer, Integer> pair = UF_HWQUPC.getAverageValue(100, n);
+            System.out.println("Generate " + n + " sites, and run 100 times to get average value. It takes " + pair.getKey()
+                    + " times connect(union) to connect all sites, and generate "
+                    + pair.getValue() + " random pairs");
+        }
     }
 }

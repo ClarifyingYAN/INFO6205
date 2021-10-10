@@ -9,3 +9,5 @@ This is my NEU INFO6205 assignments repo.
 2. [Assignment1](./Assignment-1) Random Walk
 
 3. [Assignment2](./Assignment-2) Benchmark
+
+4. [Assignment3](./Assignment-3) WQUPC
