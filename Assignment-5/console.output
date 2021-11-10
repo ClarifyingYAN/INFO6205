@@ -1,0 +1,864 @@
+Degree of parallelism: 2
+arraySize: 2000000 ,cutoff: 1000 ,time/10: 399 ms
+cutoff：1000		10times Time:3999ms
+arraySize: 2000000 ,cutoff: 2000 ,time/10: 231 ms
+cutoff：2000		10times Time:2315ms
+arraySize: 2000000 ,cutoff: 4000 ,time/10: 189 ms
+cutoff：4000		10times Time:1898ms
+arraySize: 2000000 ,cutoff: 8000 ,time/10: 192 ms
+cutoff：8000		10times Time:1923ms
+arraySize: 2000000 ,cutoff: 16000 ,time/10: 204 ms
+cutoff：16000		10times Time:2045ms
+arraySize: 2000000 ,cutoff: 32000 ,time/10: 239 ms
+cutoff：32000		10times Time:2394ms
+arraySize: 2000000 ,cutoff: 64000 ,time/10: 222 ms
+cutoff：64000		10times Time:2222ms
+arraySize: 2000000 ,cutoff: 128000 ,time/10: 218 ms
+cutoff：128000		10times Time:2181ms
+arraySize: 2000000 ,cutoff: 256000 ,time/10: 230 ms
+cutoff：256000		10times Time:2307ms
+arraySize: 2000000 ,cutoff: 512000 ,time/10: 164 ms
+cutoff：512000		10times Time:1643ms
+arraySize: 3000000 ,cutoff: 1000 ,time/10: 497 ms
+cutoff：1000		10times Time:4970ms
+arraySize: 3000000 ,cutoff: 2000 ,time/10: 314 ms
+cutoff：2000		10times Time:3148ms
+arraySize: 3000000 ,cutoff: 4000 ,time/10: 271 ms
+cutoff：4000		10times Time:2710ms
+arraySize: 3000000 ,cutoff: 8000 ,time/10: 243 ms
+cutoff：8000		10times Time:2437ms
+arraySize: 3000000 ,cutoff: 16000 ,time/10: 272 ms
+cutoff：16000		10times Time:2720ms
+arraySize: 3000000 ,cutoff: 32000 ,time/10: 297 ms
+cutoff：32000		10times Time:2972ms
+arraySize: 3000000 ,cutoff: 64000 ,time/10: 307 ms
+cutoff：64000		10times Time:3071ms
+arraySize: 3000000 ,cutoff: 128000 ,time/10: 321 ms
+cutoff：128000		10times Time:3212ms
+arraySize: 3000000 ,cutoff: 256000 ,time/10: 318 ms
+cutoff：256000		10times Time:3186ms
+arraySize: 3000000 ,cutoff: 512000 ,time/10: 352 ms
+cutoff：512000		10times Time:3520ms
+arraySize: 3000000 ,cutoff: 1024000 ,time/10: 259 ms
+cutoff：1024000		10times Time:2594ms
+arraySize: 4000000 ,cutoff: 1000 ,time/10: 610 ms
+cutoff：1000		10times Time:6100ms
+arraySize: 4000000 ,cutoff: 2000 ,time/10: 468 ms
+cutoff：2000		10times Time:4682ms
+arraySize: 4000000 ,cutoff: 4000 ,time/10: 350 ms
+cutoff：4000		10times Time:3508ms
+arraySize: 4000000 ,cutoff: 8000 ,time/10: 323 ms
+cutoff：8000		10times Time:3237ms
+arraySize: 4000000 ,cutoff: 16000 ,time/10: 349 ms
+cutoff：16000		10times Time:3495ms
+arraySize: 4000000 ,cutoff: 32000 ,time/10: 359 ms
+cutoff：32000		10times Time:3595ms
+arraySize: 4000000 ,cutoff: 64000 ,time/10: 390 ms
+cutoff：64000		10times Time:3909ms
+arraySize: 4000000 ,cutoff: 128000 ,time/10: 394 ms
+cutoff：128000		10times Time:3945ms
+arraySize: 4000000 ,cutoff: 256000 ,time/10: 442 ms
+cutoff：256000		10times Time:4420ms
+arraySize: 4000000 ,cutoff: 512000 ,time/10: 468 ms
+cutoff：512000		10times Time:4687ms
+arraySize: 4000000 ,cutoff: 1024000 ,time/10: 352 ms
+cutoff：1024000		10times Time:3521ms
+arraySize: 5000000 ,cutoff: 1000 ,time/10: 1261 ms
+cutoff：1000		10times Time:12613ms
+arraySize: 5000000 ,cutoff: 2000 ,time/10: 771 ms
+cutoff：2000		10times Time:7715ms
+arraySize: 5000000 ,cutoff: 4000 ,time/10: 553 ms
+cutoff：4000		10times Time:5539ms
+arraySize: 5000000 ,cutoff: 8000 ,time/10: 444 ms
+cutoff：8000		10times Time:4440ms
+arraySize: 5000000 ,cutoff: 16000 ,time/10: 418 ms
+cutoff：16000		10times Time:4184ms
+arraySize: 5000000 ,cutoff: 32000 ,time/10: 412 ms
+cutoff：32000		10times Time:4120ms
+arraySize: 5000000 ,cutoff: 64000 ,time/10: 451 ms
+cutoff：64000		10times Time:4513ms
+arraySize: 5000000 ,cutoff: 128000 ,time/10: 489 ms
+cutoff：128000		10times Time:4891ms
+arraySize: 5000000 ,cutoff: 256000 ,time/10: 520 ms
+cutoff：256000		10times Time:5207ms
+arraySize: 5000000 ,cutoff: 512000 ,time/10: 565 ms
+cutoff：512000		10times Time:5658ms
+arraySize: 5000000 ,cutoff: 1024000 ,time/10: 563 ms
+cutoff：1024000		10times Time:5633ms
+arraySize: 5000000 ,cutoff: 2048000 ,time/10: 423 ms
+cutoff：2048000		10times Time:4237ms
+arraySize: 6000000 ,cutoff: 1000 ,time/10: 1404 ms
+cutoff：1000		10times Time:14046ms
+arraySize: 6000000 ,cutoff: 2000 ,time/10: 860 ms
+cutoff：2000		10times Time:8603ms
+arraySize: 6000000 ,cutoff: 4000 ,time/10: 569 ms
+cutoff：4000		10times Time:5699ms
+arraySize: 6000000 ,cutoff: 8000 ,time/10: 490 ms
+cutoff：8000		10times Time:4904ms
+arraySize: 6000000 ,cutoff: 16000 ,time/10: 472 ms
+cutoff：16000		10times Time:4727ms
+arraySize: 6000000 ,cutoff: 32000 ,time/10: 514 ms
+cutoff：32000		10times Time:5147ms
+arraySize: 6000000 ,cutoff: 64000 ,time/10: 544 ms
+cutoff：64000		10times Time:5443ms
+arraySize: 6000000 ,cutoff: 128000 ,time/10: 550 ms
+cutoff：128000		10times Time:5504ms
+arraySize: 6000000 ,cutoff: 256000 ,time/10: 576 ms
+cutoff：256000		10times Time:5765ms
+arraySize: 6000000 ,cutoff: 512000 ,time/10: 654 ms
+cutoff：512000		10times Time:6549ms
+arraySize: 6000000 ,cutoff: 1024000 ,time/10: 750 ms
+cutoff：1024000		10times Time:7500ms
+arraySize: 6000000 ,cutoff: 2048000 ,time/10: 529 ms
+cutoff：2048000		10times Time:5290ms
+arraySize: 7000000 ,cutoff: 1000 ,time/10: 1378 ms
+cutoff：1000		10times Time:13783ms
+arraySize: 7000000 ,cutoff: 2000 ,time/10: 874 ms
+cutoff：2000		10times Time:8741ms
+arraySize: 7000000 ,cutoff: 4000 ,time/10: 647 ms
+cutoff：4000		10times Time:6479ms
+arraySize: 7000000 ,cutoff: 8000 ,time/10: 642 ms
+cutoff：8000		10times Time:6426ms
+arraySize: 7000000 ,cutoff: 16000 ,time/10: 586 ms
+cutoff：16000		10times Time:5860ms
+arraySize: 7000000 ,cutoff: 32000 ,time/10: 582 ms
+cutoff：32000		10times Time:5828ms
+arraySize: 7000000 ,cutoff: 64000 ,time/10: 630 ms
+cutoff：64000		10times Time:6307ms
+arraySize: 7000000 ,cutoff: 128000 ,time/10: 682 ms
+cutoff：128000		10times Time:6821ms
+arraySize: 7000000 ,cutoff: 256000 ,time/10: 727 ms
+cutoff：256000		10times Time:7270ms
+arraySize: 7000000 ,cutoff: 512000 ,time/10: 768 ms
+cutoff：512000		10times Time:7681ms
+arraySize: 7000000 ,cutoff: 1024000 ,time/10: 825 ms
+cutoff：1024000		10times Time:8257ms
+arraySize: 7000000 ,cutoff: 2048000 ,time/10: 595 ms
+cutoff：2048000		10times Time:5952ms
+arraySize: 8000000 ,cutoff: 1000 ,time/10: 1620 ms
+cutoff：1000		10times Time:16206ms
+arraySize: 8000000 ,cutoff: 2000 ,time/10: 1096 ms
+cutoff：2000		10times Time:10965ms
+arraySize: 8000000 ,cutoff: 4000 ,time/10: 741 ms
+cutoff：4000		10times Time:7416ms
+arraySize: 8000000 ,cutoff: 8000 ,time/10: 659 ms
+cutoff：8000		10times Time:6596ms
+arraySize: 8000000 ,cutoff: 16000 ,time/10: 658 ms
+cutoff：16000		10times Time:6580ms
+arraySize: 8000000 ,cutoff: 32000 ,time/10: 679 ms
+cutoff：32000		10times Time:6790ms
+arraySize: 8000000 ,cutoff: 64000 ,time/10: 679 ms
+cutoff：64000		10times Time:6792ms
+arraySize: 8000000 ,cutoff: 128000 ,time/10: 786 ms
+cutoff：128000		10times Time:7864ms
+arraySize: 8000000 ,cutoff: 256000 ,time/10: 797 ms
+cutoff：256000		10times Time:7978ms
+arraySize: 8000000 ,cutoff: 512000 ,time/10: 907 ms
+cutoff：512000		10times Time:9075ms
+arraySize: 8000000 ,cutoff: 1024000 ,time/10: 963 ms
+cutoff：1024000		10times Time:9636ms
+arraySize: 8000000 ,cutoff: 2048000 ,time/10: 706 ms
+cutoff：2048000		10times Time:7062ms
+arraySize: 9000000 ,cutoff: 1000 ,time/10: 3205 ms
+cutoff：1000		10times Time:32050ms
+arraySize: 9000000 ,cutoff: 2000 ,time/10: 1681 ms
+cutoff：2000		10times Time:16815ms
+arraySize: 9000000 ,cutoff: 4000 ,time/10: 1237 ms
+cutoff：4000		10times Time:12371ms
+arraySize: 9000000 ,cutoff: 8000 ,time/10: 853 ms
+cutoff：8000		10times Time:8531ms
+arraySize: 9000000 ,cutoff: 16000 ,time/10: 769 ms
+cutoff：16000		10times Time:7691ms
+arraySize: 9000000 ,cutoff: 32000 ,time/10: 767 ms
+cutoff：32000		10times Time:7675ms
+arraySize: 9000000 ,cutoff: 64000 ,time/10: 773 ms
+cutoff：64000		10times Time:7739ms
+arraySize: 9000000 ,cutoff: 128000 ,time/10: 812 ms
+cutoff：128000		10times Time:8127ms
+arraySize: 9000000 ,cutoff: 256000 ,time/10: 836 ms
+cutoff：256000		10times Time:8361ms
+arraySize: 9000000 ,cutoff: 512000 ,time/10: 937 ms
+cutoff：512000		10times Time:9372ms
+arraySize: 9000000 ,cutoff: 1024000 ,time/10: 1002 ms
+cutoff：1024000		10times Time:10023ms
+arraySize: 9000000 ,cutoff: 2048000 ,time/10: 1122 ms
+cutoff：2048000		10times Time:11223ms
+arraySize: 9000000 ,cutoff: 4096000 ,time/10: 786 ms
+cutoff：4096000		10times Time:7867ms
+arraySize: 10000000 ,cutoff: 1000 ,time/10: 3860 ms
+cutoff：1000		10times Time:38607ms
+arraySize: 10000000 ,cutoff: 2000 ,time/10: 2037 ms
+cutoff：2000		10times Time:20379ms
+arraySize: 10000000 ,cutoff: 4000 ,time/10: 1353 ms
+cutoff：4000		10times Time:13534ms
+arraySize: 10000000 ,cutoff: 8000 ,time/10: 1019 ms
+cutoff：8000		10times Time:10193ms
+arraySize: 10000000 ,cutoff: 16000 ,time/10: 879 ms
+cutoff：16000		10times Time:8795ms
+arraySize: 10000000 ,cutoff: 32000 ,time/10: 804 ms
+cutoff：32000		10times Time:8041ms
+arraySize: 10000000 ,cutoff: 64000 ,time/10: 850 ms
+cutoff：64000		10times Time:8509ms
+arraySize: 10000000 ,cutoff: 128000 ,time/10: 861 ms
+cutoff：128000		10times Time:8619ms
+arraySize: 10000000 ,cutoff: 256000 ,time/10: 953 ms
+cutoff：256000		10times Time:9531ms
+arraySize: 10000000 ,cutoff: 512000 ,time/10: 1026 ms
+cutoff：512000		10times Time:10260ms
+arraySize: 10000000 ,cutoff: 1024000 ,time/10: 1104 ms
+cutoff：1024000		10times Time:11042ms
+arraySize: 10000000 ,cutoff: 2048000 ,time/10: 1190 ms
+cutoff：2048000		10times Time:11900ms
+arraySize: 10000000 ,cutoff: 4096000 ,time/10: 870 ms
+cutoff：4096000		10times Time:8706ms
+Starting to write to file
+Write to: ./src/2threads-result.csv
+106
+Degree of parallelism: 4
+arraySize: 2000000 ,cutoff: 1000 ,time/10: 236 ms
+cutoff：1000		10times Time:2362ms
+arraySize: 2000000 ,cutoff: 2000 ,time/10: 201 ms
+cutoff：2000		10times Time:2018ms
+arraySize: 2000000 ,cutoff: 4000 ,time/10: 185 ms
+cutoff：4000		10times Time:1852ms
+arraySize: 2000000 ,cutoff: 8000 ,time/10: 191 ms
+cutoff：8000		10times Time:1913ms
+arraySize: 2000000 ,cutoff: 16000 ,time/10: 190 ms
+cutoff：16000		10times Time:1905ms
+arraySize: 2000000 ,cutoff: 32000 ,time/10: 208 ms
+cutoff：32000		10times Time:2083ms
+arraySize: 2000000 ,cutoff: 64000 ,time/10: 199 ms
+cutoff：64000		10times Time:1995ms
+arraySize: 2000000 ,cutoff: 128000 ,time/10: 200 ms
+cutoff：128000		10times Time:2003ms
+arraySize: 2000000 ,cutoff: 256000 ,time/10: 181 ms
+cutoff：256000		10times Time:1812ms
+arraySize: 2000000 ,cutoff: 512000 ,time/10: 94 ms
+cutoff：512000		10times Time:944ms
+arraySize: 3000000 ,cutoff: 1000 ,time/10: 469 ms
+cutoff：1000		10times Time:4693ms
+arraySize: 3000000 ,cutoff: 2000 ,time/10: 318 ms
+cutoff：2000		10times Time:3180ms
+arraySize: 3000000 ,cutoff: 4000 ,time/10: 262 ms
+cutoff：4000		10times Time:2621ms
+arraySize: 3000000 ,cutoff: 8000 ,time/10: 258 ms
+cutoff：8000		10times Time:2589ms
+arraySize: 3000000 ,cutoff: 16000 ,time/10: 285 ms
+cutoff：16000		10times Time:2851ms
+arraySize: 3000000 ,cutoff: 32000 ,time/10: 261 ms
+cutoff：32000		10times Time:2613ms
+arraySize: 3000000 ,cutoff: 64000 ,time/10: 293 ms
+cutoff：64000		10times Time:2933ms
+arraySize: 3000000 ,cutoff: 128000 ,time/10: 294 ms
+cutoff：128000		10times Time:2943ms
+arraySize: 3000000 ,cutoff: 256000 ,time/10: 277 ms
+cutoff：256000		10times Time:2778ms
+arraySize: 3000000 ,cutoff: 512000 ,time/10: 291 ms
+cutoff：512000		10times Time:2918ms
+arraySize: 3000000 ,cutoff: 1024000 ,time/10: 147 ms
+cutoff：1024000		10times Time:1474ms
+arraySize: 4000000 ,cutoff: 1000 ,time/10: 602 ms
+cutoff：1000		10times Time:6021ms
+arraySize: 4000000 ,cutoff: 2000 ,time/10: 432 ms
+cutoff：2000		10times Time:4329ms
+arraySize: 4000000 ,cutoff: 4000 ,time/10: 342 ms
+cutoff：4000		10times Time:3426ms
+arraySize: 4000000 ,cutoff: 8000 ,time/10: 319 ms
+cutoff：8000		10times Time:3191ms
+arraySize: 4000000 ,cutoff: 16000 ,time/10: 340 ms
+cutoff：16000		10times Time:3403ms
+arraySize: 4000000 ,cutoff: 32000 ,time/10: 363 ms
+cutoff：32000		10times Time:3631ms
+arraySize: 4000000 ,cutoff: 64000 ,time/10: 389 ms
+cutoff：64000		10times Time:3898ms
+arraySize: 4000000 ,cutoff: 128000 ,time/10: 394 ms
+cutoff：128000		10times Time:3944ms
+arraySize: 4000000 ,cutoff: 256000 ,time/10: 390 ms
+cutoff：256000		10times Time:3903ms
+arraySize: 4000000 ,cutoff: 512000 ,time/10: 394 ms
+cutoff：512000		10times Time:3946ms
+arraySize: 4000000 ,cutoff: 1024000 ,time/10: 199 ms
+cutoff：1024000		10times Time:1996ms
+arraySize: 5000000 ,cutoff: 1000 ,time/10: 1204 ms
+cutoff：1000		10times Time:12041ms
+arraySize: 5000000 ,cutoff: 2000 ,time/10: 828 ms
+cutoff：2000		10times Time:8283ms
+arraySize: 5000000 ,cutoff: 4000 ,time/10: 469 ms
+cutoff：4000		10times Time:4694ms
+arraySize: 5000000 ,cutoff: 8000 ,time/10: 409 ms
+cutoff：8000		10times Time:4092ms
+arraySize: 5000000 ,cutoff: 16000 ,time/10: 402 ms
+cutoff：16000		10times Time:4024ms
+arraySize: 5000000 ,cutoff: 32000 ,time/10: 409 ms
+cutoff：32000		10times Time:4091ms
+arraySize: 5000000 ,cutoff: 64000 ,time/10: 436 ms
+cutoff：64000		10times Time:4369ms
+arraySize: 5000000 ,cutoff: 128000 ,time/10: 451 ms
+cutoff：128000		10times Time:4514ms
+arraySize: 5000000 ,cutoff: 256000 ,time/10: 495 ms
+cutoff：256000		10times Time:4950ms
+arraySize: 5000000 ,cutoff: 512000 ,time/10: 499 ms
+cutoff：512000		10times Time:4991ms
+arraySize: 5000000 ,cutoff: 1024000 ,time/10: 459 ms
+cutoff：1024000		10times Time:4595ms
+arraySize: 5000000 ,cutoff: 2048000 ,time/10: 249 ms
+cutoff：2048000		10times Time:2499ms
+arraySize: 6000000 ,cutoff: 1000 ,time/10: 1387 ms
+cutoff：1000		10times Time:13876ms
+arraySize: 6000000 ,cutoff: 2000 ,time/10: 870 ms
+cutoff：2000		10times Time:8704ms
+arraySize: 6000000 ,cutoff: 4000 ,time/10: 602 ms
+cutoff：4000		10times Time:6028ms
+arraySize: 6000000 ,cutoff: 8000 ,time/10: 493 ms
+cutoff：8000		10times Time:4933ms
+arraySize: 6000000 ,cutoff: 16000 ,time/10: 472 ms
+cutoff：16000		10times Time:4722ms
+arraySize: 6000000 ,cutoff: 32000 ,time/10: 487 ms
+cutoff：32000		10times Time:4873ms
+arraySize: 6000000 ,cutoff: 64000 ,time/10: 546 ms
+cutoff：64000		10times Time:5462ms
+arraySize: 6000000 ,cutoff: 128000 ,time/10: 548 ms
+cutoff：128000		10times Time:5482ms
+arraySize: 6000000 ,cutoff: 256000 ,time/10: 601 ms
+cutoff：256000		10times Time:6013ms
+arraySize: 6000000 ,cutoff: 512000 ,time/10: 571 ms
+cutoff：512000		10times Time:5717ms
+arraySize: 6000000 ,cutoff: 1024000 ,time/10: 592 ms
+cutoff：1024000		10times Time:5926ms
+arraySize: 6000000 ,cutoff: 2048000 ,time/10: 306 ms
+cutoff：2048000		10times Time:3066ms
+arraySize: 7000000 ,cutoff: 1000 ,time/10: 1332 ms
+cutoff：1000		10times Time:13326ms
+arraySize: 7000000 ,cutoff: 2000 ,time/10: 915 ms
+cutoff：2000		10times Time:9151ms
+arraySize: 7000000 ,cutoff: 4000 ,time/10: 667 ms
+cutoff：4000		10times Time:6678ms
+arraySize: 7000000 ,cutoff: 8000 ,time/10: 591 ms
+cutoff：8000		10times Time:5911ms
+arraySize: 7000000 ,cutoff: 16000 ,time/10: 532 ms
+cutoff：16000		10times Time:5328ms
+arraySize: 7000000 ,cutoff: 32000 ,time/10: 552 ms
+cutoff：32000		10times Time:5529ms
+arraySize: 7000000 ,cutoff: 64000 ,time/10: 655 ms
+cutoff：64000		10times Time:6551ms
+arraySize: 7000000 ,cutoff: 128000 ,time/10: 653 ms
+cutoff：128000		10times Time:6534ms
+arraySize: 7000000 ,cutoff: 256000 ,time/10: 698 ms
+cutoff：256000		10times Time:6986ms
+arraySize: 7000000 ,cutoff: 512000 ,time/10: 651 ms
+cutoff：512000		10times Time:6511ms
+arraySize: 7000000 ,cutoff: 1024000 ,time/10: 691 ms
+cutoff：1024000		10times Time:6912ms
+arraySize: 7000000 ,cutoff: 2048000 ,time/10: 363 ms
+cutoff：2048000		10times Time:3638ms
+arraySize: 8000000 ,cutoff: 1000 ,time/10: 1576 ms
+cutoff：1000		10times Time:15763ms
+arraySize: 8000000 ,cutoff: 2000 ,time/10: 1059 ms
+cutoff：2000		10times Time:10590ms
+arraySize: 8000000 ,cutoff: 4000 ,time/10: 751 ms
+cutoff：4000		10times Time:7519ms
+arraySize: 8000000 ,cutoff: 8000 ,time/10: 678 ms
+cutoff：8000		10times Time:6782ms
+arraySize: 8000000 ,cutoff: 16000 ,time/10: 634 ms
+cutoff：16000		10times Time:6349ms
+arraySize: 8000000 ,cutoff: 32000 ,time/10: 680 ms
+cutoff：32000		10times Time:6800ms
+arraySize: 8000000 ,cutoff: 64000 ,time/10: 679 ms
+cutoff：64000		10times Time:6794ms
+arraySize: 8000000 ,cutoff: 128000 ,time/10: 761 ms
+cutoff：128000		10times Time:7617ms
+arraySize: 8000000 ,cutoff: 256000 ,time/10: 809 ms
+cutoff：256000		10times Time:8093ms
+arraySize: 8000000 ,cutoff: 512000 ,time/10: 782 ms
+cutoff：512000		10times Time:7820ms
+arraySize: 8000000 ,cutoff: 1024000 ,time/10: 797 ms
+cutoff：1024000		10times Time:7971ms
+arraySize: 8000000 ,cutoff: 2048000 ,time/10: 420 ms
+cutoff：2048000		10times Time:4201ms
+arraySize: 9000000 ,cutoff: 1000 ,time/10: 3328 ms
+cutoff：1000		10times Time:33284ms
+arraySize: 9000000 ,cutoff: 2000 ,time/10: 1763 ms
+cutoff：2000		10times Time:17636ms
+arraySize: 9000000 ,cutoff: 4000 ,time/10: 1237 ms
+cutoff：4000		10times Time:12379ms
+arraySize: 9000000 ,cutoff: 8000 ,time/10: 939 ms
+cutoff：8000		10times Time:9399ms
+arraySize: 9000000 ,cutoff: 16000 ,time/10: 739 ms
+cutoff：16000		10times Time:7392ms
+arraySize: 9000000 ,cutoff: 32000 ,time/10: 756 ms
+cutoff：32000		10times Time:7565ms
+arraySize: 9000000 ,cutoff: 64000 ,time/10: 763 ms
+cutoff：64000		10times Time:7630ms
+arraySize: 9000000 ,cutoff: 128000 ,time/10: 782 ms
+cutoff：128000		10times Time:7829ms
+arraySize: 9000000 ,cutoff: 256000 ,time/10: 821 ms
+cutoff：256000		10times Time:8219ms
+arraySize: 9000000 ,cutoff: 512000 ,time/10: 902 ms
+cutoff：512000		10times Time:9020ms
+arraySize: 9000000 ,cutoff: 1024000 ,time/10: 938 ms
+cutoff：1024000		10times Time:9385ms
+arraySize: 9000000 ,cutoff: 2048000 ,time/10: 903 ms
+cutoff：2048000		10times Time:9032ms
+arraySize: 9000000 ,cutoff: 4096000 ,time/10: 469 ms
+cutoff：4096000		10times Time:4698ms
+arraySize: 10000000 ,cutoff: 1000 ,time/10: 3448 ms
+cutoff：1000		10times Time:34484ms
+arraySize: 10000000 ,cutoff: 2000 ,time/10: 2017 ms
+cutoff：2000		10times Time:20173ms
+arraySize: 10000000 ,cutoff: 4000 ,time/10: 1369 ms
+cutoff：4000		10times Time:13691ms
+arraySize: 10000000 ,cutoff: 8000 ,time/10: 1013 ms
+cutoff：8000		10times Time:10131ms
+arraySize: 10000000 ,cutoff: 16000 ,time/10: 867 ms
+cutoff：16000		10times Time:8672ms
+arraySize: 10000000 ,cutoff: 32000 ,time/10: 813 ms
+cutoff：32000		10times Time:8133ms
+arraySize: 10000000 ,cutoff: 64000 ,time/10: 825 ms
+cutoff：64000		10times Time:8257ms
+arraySize: 10000000 ,cutoff: 128000 ,time/10: 927 ms
+cutoff：128000		10times Time:9276ms
+arraySize: 10000000 ,cutoff: 256000 ,time/10: 946 ms
+cutoff：256000		10times Time:9464ms
+arraySize: 10000000 ,cutoff: 512000 ,time/10: 994 ms
+cutoff：512000		10times Time:9945ms
+arraySize: 10000000 ,cutoff: 1024000 ,time/10: 990 ms
+cutoff：1024000		10times Time:9904ms
+arraySize: 10000000 ,cutoff: 2048000 ,time/10: 1035 ms
+cutoff：2048000		10times Time:10353ms
+arraySize: 10000000 ,cutoff: 4096000 ,time/10: 526 ms
+cutoff：4096000		10times Time:5260ms
+Starting to write to file
+Write to: ./src/4threads-result.csv
+106
+Degree of parallelism: 8
+arraySize: 2000000 ,cutoff: 1000 ,time/10: 271 ms
+cutoff：1000		10times Time:2717ms
+arraySize: 2000000 ,cutoff: 2000 ,time/10: 193 ms
+cutoff：2000		10times Time:1939ms
+arraySize: 2000000 ,cutoff: 4000 ,time/10: 179 ms
+cutoff：4000		10times Time:1795ms
+arraySize: 2000000 ,cutoff: 8000 ,time/10: 195 ms
+cutoff：8000		10times Time:1952ms
+arraySize: 2000000 ,cutoff: 16000 ,time/10: 191 ms
+cutoff：16000		10times Time:1914ms
+arraySize: 2000000 ,cutoff: 32000 ,time/10: 206 ms
+cutoff：32000		10times Time:2066ms
+arraySize: 2000000 ,cutoff: 64000 ,time/10: 190 ms
+cutoff：64000		10times Time:1905ms
+arraySize: 2000000 ,cutoff: 128000 ,time/10: 173 ms
+cutoff：128000		10times Time:1739ms
+arraySize: 2000000 ,cutoff: 256000 ,time/10: 114 ms
+cutoff：256000		10times Time:1148ms
+arraySize: 2000000 ,cutoff: 512000 ,time/10: 97 ms
+cutoff：512000		10times Time:972ms
+arraySize: 3000000 ,cutoff: 1000 ,time/10: 455 ms
+cutoff：1000		10times Time:4553ms
+arraySize: 3000000 ,cutoff: 2000 ,time/10: 340 ms
+cutoff：2000		10times Time:3401ms
+arraySize: 3000000 ,cutoff: 4000 ,time/10: 257 ms
+cutoff：4000		10times Time:2572ms
+arraySize: 3000000 ,cutoff: 8000 ,time/10: 244 ms
+cutoff：8000		10times Time:2449ms
+arraySize: 3000000 ,cutoff: 16000 ,time/10: 260 ms
+cutoff：16000		10times Time:2601ms
+arraySize: 3000000 ,cutoff: 32000 ,time/10: 275 ms
+cutoff：32000		10times Time:2755ms
+arraySize: 3000000 ,cutoff: 64000 ,time/10: 280 ms
+cutoff：64000		10times Time:2803ms
+arraySize: 3000000 ,cutoff: 128000 ,time/10: 278 ms
+cutoff：128000		10times Time:2781ms
+arraySize: 3000000 ,cutoff: 256000 ,time/10: 299 ms
+cutoff：256000		10times Time:2997ms
+arraySize: 3000000 ,cutoff: 512000 ,time/10: 169 ms
+cutoff：512000		10times Time:1696ms
+arraySize: 3000000 ,cutoff: 1024000 ,time/10: 151 ms
+cutoff：1024000		10times Time:1515ms
+arraySize: 4000000 ,cutoff: 1000 ,time/10: 634 ms
+cutoff：1000		10times Time:6346ms
+arraySize: 4000000 ,cutoff: 2000 ,time/10: 435 ms
+cutoff：2000		10times Time:4355ms
+arraySize: 4000000 ,cutoff: 4000 ,time/10: 324 ms
+cutoff：4000		10times Time:3244ms
+arraySize: 4000000 ,cutoff: 8000 ,time/10: 313 ms
+cutoff：8000		10times Time:3130ms
+arraySize: 4000000 ,cutoff: 16000 ,time/10: 336 ms
+cutoff：16000		10times Time:3367ms
+arraySize: 4000000 ,cutoff: 32000 ,time/10: 360 ms
+cutoff：32000		10times Time:3601ms
+arraySize: 4000000 ,cutoff: 64000 ,time/10: 373 ms
+cutoff：64000		10times Time:3734ms
+arraySize: 4000000 ,cutoff: 128000 ,time/10: 359 ms
+cutoff：128000		10times Time:3598ms
+arraySize: 4000000 ,cutoff: 256000 ,time/10: 358 ms
+cutoff：256000		10times Time:3588ms
+arraySize: 4000000 ,cutoff: 512000 ,time/10: 224 ms
+cutoff：512000		10times Time:2244ms
+arraySize: 4000000 ,cutoff: 1024000 ,time/10: 201 ms
+cutoff：1024000		10times Time:2019ms
+arraySize: 5000000 ,cutoff: 1000 ,time/10: 1209 ms
+cutoff：1000		10times Time:12096ms
+arraySize: 5000000 ,cutoff: 2000 ,time/10: 689 ms
+cutoff：2000		10times Time:6898ms
+arraySize: 5000000 ,cutoff: 4000 ,time/10: 488 ms
+cutoff：4000		10times Time:4880ms
+arraySize: 5000000 ,cutoff: 8000 ,time/10: 410 ms
+cutoff：8000		10times Time:4105ms
+arraySize: 5000000 ,cutoff: 16000 ,time/10: 401 ms
+cutoff：16000		10times Time:4012ms
+arraySize: 5000000 ,cutoff: 32000 ,time/10: 402 ms
+cutoff：32000		10times Time:4027ms
+arraySize: 5000000 ,cutoff: 64000 ,time/10: 452 ms
+cutoff：64000		10times Time:4522ms
+arraySize: 5000000 ,cutoff: 128000 ,time/10: 455 ms
+cutoff：128000		10times Time:4550ms
+arraySize: 5000000 ,cutoff: 256000 ,time/10: 449 ms
+cutoff：256000		10times Time:4498ms
+arraySize: 5000000 ,cutoff: 512000 ,time/10: 459 ms
+cutoff：512000		10times Time:4597ms
+arraySize: 5000000 ,cutoff: 1024000 ,time/10: 290 ms
+cutoff：1024000		10times Time:2907ms
+arraySize: 5000000 ,cutoff: 2048000 ,time/10: 262 ms
+cutoff：2048000		10times Time:2621ms
+arraySize: 6000000 ,cutoff: 1000 ,time/10: 1376 ms
+cutoff：1000		10times Time:13767ms
+arraySize: 6000000 ,cutoff: 2000 ,time/10: 770 ms
+cutoff：2000		10times Time:7701ms
+arraySize: 6000000 ,cutoff: 4000 ,time/10: 587 ms
+cutoff：4000		10times Time:5878ms
+arraySize: 6000000 ,cutoff: 8000 ,time/10: 493 ms
+cutoff：8000		10times Time:4937ms
+arraySize: 6000000 ,cutoff: 16000 ,time/10: 474 ms
+cutoff：16000		10times Time:4745ms
+arraySize: 6000000 ,cutoff: 32000 ,time/10: 486 ms
+cutoff：32000		10times Time:4860ms
+arraySize: 6000000 ,cutoff: 64000 ,time/10: 545 ms
+cutoff：64000		10times Time:5452ms
+arraySize: 6000000 ,cutoff: 128000 ,time/10: 529 ms
+cutoff：128000		10times Time:5299ms
+arraySize: 6000000 ,cutoff: 256000 ,time/10: 560 ms
+cutoff：256000		10times Time:5602ms
+arraySize: 6000000 ,cutoff: 512000 ,time/10: 548 ms
+cutoff：512000		10times Time:5482ms
+arraySize: 6000000 ,cutoff: 1024000 ,time/10: 340 ms
+cutoff：1024000		10times Time:3407ms
+arraySize: 6000000 ,cutoff: 2048000 ,time/10: 306 ms
+cutoff：2048000		10times Time:3068ms
+arraySize: 7000000 ,cutoff: 1000 ,time/10: 1300 ms
+cutoff：1000		10times Time:13002ms
+arraySize: 7000000 ,cutoff: 2000 ,time/10: 1008 ms
+cutoff：2000		10times Time:10087ms
+arraySize: 7000000 ,cutoff: 4000 ,time/10: 702 ms
+cutoff：4000		10times Time:7029ms
+arraySize: 7000000 ,cutoff: 8000 ,time/10: 564 ms
+cutoff：8000		10times Time:5643ms
+arraySize: 7000000 ,cutoff: 16000 ,time/10: 570 ms
+cutoff：16000		10times Time:5705ms
+arraySize: 7000000 ,cutoff: 32000 ,time/10: 572 ms
+cutoff：32000		10times Time:5722ms
+arraySize: 7000000 ,cutoff: 64000 ,time/10: 602 ms
+cutoff：64000		10times Time:6028ms
+arraySize: 7000000 ,cutoff: 128000 ,time/10: 643 ms
+cutoff：128000		10times Time:6431ms
+arraySize: 7000000 ,cutoff: 256000 ,time/10: 679 ms
+cutoff：256000		10times Time:6791ms
+arraySize: 7000000 ,cutoff: 512000 ,time/10: 662 ms
+cutoff：512000		10times Time:6622ms
+arraySize: 7000000 ,cutoff: 1024000 ,time/10: 400 ms
+cutoff：1024000		10times Time:4007ms
+arraySize: 7000000 ,cutoff: 2048000 ,time/10: 367 ms
+cutoff：2048000		10times Time:3672ms
+arraySize: 8000000 ,cutoff: 1000 ,time/10: 1494 ms
+cutoff：1000		10times Time:14946ms
+arraySize: 8000000 ,cutoff: 2000 ,time/10: 1000 ms
+cutoff：2000		10times Time:10006ms
+arraySize: 8000000 ,cutoff: 4000 ,time/10: 732 ms
+cutoff：4000		10times Time:7320ms
+arraySize: 8000000 ,cutoff: 8000 ,time/10: 662 ms
+cutoff：8000		10times Time:6624ms
+arraySize: 8000000 ,cutoff: 16000 ,time/10: 660 ms
+cutoff：16000		10times Time:6607ms
+arraySize: 8000000 ,cutoff: 32000 ,time/10: 676 ms
+cutoff：32000		10times Time:6769ms
+arraySize: 8000000 ,cutoff: 64000 ,time/10: 680 ms
+cutoff：64000		10times Time:6802ms
+arraySize: 8000000 ,cutoff: 128000 ,time/10: 759 ms
+cutoff：128000		10times Time:7595ms
+arraySize: 8000000 ,cutoff: 256000 ,time/10: 755 ms
+cutoff：256000		10times Time:7550ms
+arraySize: 8000000 ,cutoff: 512000 ,time/10: 712 ms
+cutoff：512000		10times Time:7124ms
+arraySize: 8000000 ,cutoff: 1024000 ,time/10: 463 ms
+cutoff：1024000		10times Time:4630ms
+arraySize: 8000000 ,cutoff: 2048000 ,time/10: 412 ms
+cutoff：2048000		10times Time:4127ms
+arraySize: 9000000 ,cutoff: 1000 ,time/10: 3140 ms
+cutoff：1000		10times Time:31408ms
+arraySize: 9000000 ,cutoff: 2000 ,time/10: 1839 ms
+cutoff：2000		10times Time:18391ms
+arraySize: 9000000 ,cutoff: 4000 ,time/10: 1298 ms
+cutoff：4000		10times Time:12989ms
+arraySize: 9000000 ,cutoff: 8000 ,time/10: 908 ms
+cutoff：8000		10times Time:9081ms
+arraySize: 9000000 ,cutoff: 16000 ,time/10: 762 ms
+cutoff：16000		10times Time:7623ms
+arraySize: 9000000 ,cutoff: 32000 ,time/10: 745 ms
+cutoff：32000		10times Time:7454ms
+arraySize: 9000000 ,cutoff: 64000 ,time/10: 767 ms
+cutoff：64000		10times Time:7678ms
+arraySize: 9000000 ,cutoff: 128000 ,time/10: 783 ms
+cutoff：128000		10times Time:7830ms
+arraySize: 9000000 ,cutoff: 256000 ,time/10: 849 ms
+cutoff：256000		10times Time:8491ms
+arraySize: 9000000 ,cutoff: 512000 ,time/10: 856 ms
+cutoff：512000		10times Time:8567ms
+arraySize: 9000000 ,cutoff: 1024000 ,time/10: 873 ms
+cutoff：1024000		10times Time:8730ms
+arraySize: 9000000 ,cutoff: 2048000 ,time/10: 518 ms
+cutoff：2048000		10times Time:5189ms
+arraySize: 9000000 ,cutoff: 4096000 ,time/10: 467 ms
+cutoff：4096000		10times Time:4673ms
+arraySize: 10000000 ,cutoff: 1000 ,time/10: 3171 ms
+cutoff：1000		10times Time:31716ms
+arraySize: 10000000 ,cutoff: 2000 ,time/10: 1985 ms
+cutoff：2000		10times Time:19859ms
+arraySize: 10000000 ,cutoff: 4000 ,time/10: 1350 ms
+cutoff：4000		10times Time:13508ms
+arraySize: 10000000 ,cutoff: 8000 ,time/10: 1086 ms
+cutoff：8000		10times Time:10865ms
+arraySize: 10000000 ,cutoff: 16000 ,time/10: 884 ms
+cutoff：16000		10times Time:8846ms
+arraySize: 10000000 ,cutoff: 32000 ,time/10: 858 ms
+cutoff：32000		10times Time:8582ms
+arraySize: 10000000 ,cutoff: 64000 ,time/10: 850 ms
+cutoff：64000		10times Time:8501ms
+arraySize: 10000000 ,cutoff: 128000 ,time/10: 925 ms
+cutoff：128000		10times Time:9252ms
+arraySize: 10000000 ,cutoff: 256000 ,time/10: 941 ms
+cutoff：256000		10times Time:9416ms
+arraySize: 10000000 ,cutoff: 512000 ,time/10: 997 ms
+cutoff：512000		10times Time:9972ms
+arraySize: 10000000 ,cutoff: 1024000 ,time/10: 889 ms
+cutoff：1024000		10times Time:8895ms
+arraySize: 10000000 ,cutoff: 2048000 ,time/10: 579 ms
+cutoff：2048000		10times Time:5797ms
+arraySize: 10000000 ,cutoff: 4096000 ,time/10: 522 ms
+cutoff：4096000		10times Time:5220ms
+Starting to write to file
+Write to: ./src/8threads-result.csv
+106
+Degree of parallelism: 16
+arraySize: 2000000 ,cutoff: 1000 ,time/10: 277 ms
+cutoff：1000		10times Time:2772ms
+arraySize: 2000000 ,cutoff: 2000 ,time/10: 198 ms
+cutoff：2000		10times Time:1982ms
+arraySize: 2000000 ,cutoff: 4000 ,time/10: 174 ms
+cutoff：4000		10times Time:1746ms
+arraySize: 2000000 ,cutoff: 8000 ,time/10: 179 ms
+cutoff：8000		10times Time:1791ms
+arraySize: 2000000 ,cutoff: 16000 ,time/10: 194 ms
+cutoff：16000		10times Time:1941ms
+arraySize: 2000000 ,cutoff: 32000 ,time/10: 194 ms
+cutoff：32000		10times Time:1941ms
+arraySize: 2000000 ,cutoff: 64000 ,time/10: 153 ms
+cutoff：64000		10times Time:1531ms
+arraySize: 2000000 ,cutoff: 128000 ,time/10: 101 ms
+cutoff：128000		10times Time:1011ms
+arraySize: 2000000 ,cutoff: 256000 ,time/10: 84 ms
+cutoff：256000		10times Time:846ms
+arraySize: 2000000 ,cutoff: 512000 ,time/10: 102 ms
+cutoff：512000		10times Time:1024ms
+arraySize: 3000000 ,cutoff: 1000 ,time/10: 523 ms
+cutoff：1000		10times Time:5238ms
+arraySize: 3000000 ,cutoff: 2000 ,time/10: 362 ms
+cutoff：2000		10times Time:3625ms
+arraySize: 3000000 ,cutoff: 4000 ,time/10: 274 ms
+cutoff：4000		10times Time:2749ms
+arraySize: 3000000 ,cutoff: 8000 ,time/10: 250 ms
+cutoff：8000		10times Time:2507ms
+arraySize: 3000000 ,cutoff: 16000 ,time/10: 262 ms
+cutoff：16000		10times Time:2627ms
+arraySize: 3000000 ,cutoff: 32000 ,time/10: 286 ms
+cutoff：32000		10times Time:2864ms
+arraySize: 3000000 ,cutoff: 64000 ,time/10: 266 ms
+cutoff：64000		10times Time:2669ms
+arraySize: 3000000 ,cutoff: 128000 ,time/10: 240 ms
+cutoff：128000		10times Time:2406ms
+arraySize: 3000000 ,cutoff: 256000 ,time/10: 150 ms
+cutoff：256000		10times Time:1503ms
+arraySize: 3000000 ,cutoff: 512000 ,time/10: 123 ms
+cutoff：512000		10times Time:1236ms
+arraySize: 3000000 ,cutoff: 1024000 ,time/10: 151 ms
+cutoff：1024000		10times Time:1512ms
+arraySize: 4000000 ,cutoff: 1000 ,time/10: 628 ms
+cutoff：1000		10times Time:6286ms
+arraySize: 4000000 ,cutoff: 2000 ,time/10: 415 ms
+cutoff：2000		10times Time:4153ms
+arraySize: 4000000 ,cutoff: 4000 ,time/10: 335 ms
+cutoff：4000		10times Time:3350ms
+arraySize: 4000000 ,cutoff: 8000 ,time/10: 327 ms
+cutoff：8000		10times Time:3276ms
+arraySize: 4000000 ,cutoff: 16000 ,time/10: 345 ms
+cutoff：16000		10times Time:3453ms
+arraySize: 4000000 ,cutoff: 32000 ,time/10: 349 ms
+cutoff：32000		10times Time:3499ms
+arraySize: 4000000 ,cutoff: 64000 ,time/10: 355 ms
+cutoff：64000		10times Time:3550ms
+arraySize: 4000000 ,cutoff: 128000 ,time/10: 296 ms
+cutoff：128000		10times Time:2965ms
+arraySize: 4000000 ,cutoff: 256000 ,time/10: 191 ms
+cutoff：256000		10times Time:1915ms
+arraySize: 4000000 ,cutoff: 512000 ,time/10: 163 ms
+cutoff：512000		10times Time:1634ms
+arraySize: 4000000 ,cutoff: 1024000 ,time/10: 200 ms
+cutoff：1024000		10times Time:2003ms
+arraySize: 5000000 ,cutoff: 1000 ,time/10: 1163 ms
+cutoff：1000		10times Time:11638ms
+arraySize: 5000000 ,cutoff: 2000 ,time/10: 753 ms
+cutoff：2000		10times Time:7539ms
+arraySize: 5000000 ,cutoff: 4000 ,time/10: 507 ms
+cutoff：4000		10times Time:5073ms
+arraySize: 5000000 ,cutoff: 8000 ,time/10: 415 ms
+cutoff：8000		10times Time:4156ms
+arraySize: 5000000 ,cutoff: 16000 ,time/10: 405 ms
+cutoff：16000		10times Time:4054ms
+arraySize: 5000000 ,cutoff: 32000 ,time/10: 400 ms
+cutoff：32000		10times Time:4003ms
+arraySize: 5000000 ,cutoff: 64000 ,time/10: 441 ms
+cutoff：64000		10times Time:4410ms
+arraySize: 5000000 ,cutoff: 128000 ,time/10: 436 ms
+cutoff：128000		10times Time:4369ms
+arraySize: 5000000 ,cutoff: 256000 ,time/10: 372 ms
+cutoff：256000		10times Time:3728ms
+arraySize: 5000000 ,cutoff: 512000 ,time/10: 237 ms
+cutoff：512000		10times Time:2372ms
+arraySize: 5000000 ,cutoff: 1024000 ,time/10: 199 ms
+cutoff：1024000		10times Time:1998ms
+arraySize: 5000000 ,cutoff: 2048000 ,time/10: 254 ms
+cutoff：2048000		10times Time:2549ms
+arraySize: 6000000 ,cutoff: 1000 ,time/10: 1424 ms
+cutoff：1000		10times Time:14246ms
+arraySize: 6000000 ,cutoff: 2000 ,time/10: 781 ms
+cutoff：2000		10times Time:7810ms
+arraySize: 6000000 ,cutoff: 4000 ,time/10: 592 ms
+cutoff：4000		10times Time:5920ms
+arraySize: 6000000 ,cutoff: 8000 ,time/10: 488 ms
+cutoff：8000		10times Time:4883ms
+arraySize: 6000000 ,cutoff: 16000 ,time/10: 476 ms
+cutoff：16000		10times Time:4765ms
+arraySize: 6000000 ,cutoff: 32000 ,time/10: 496 ms
+cutoff：32000		10times Time:4969ms
+arraySize: 6000000 ,cutoff: 64000 ,time/10: 538 ms
+cutoff：64000		10times Time:5385ms
+arraySize: 6000000 ,cutoff: 128000 ,time/10: 469 ms
+cutoff：128000		10times Time:4690ms
+arraySize: 6000000 ,cutoff: 256000 ,time/10: 479 ms
+cutoff：256000		10times Time:4798ms
+arraySize: 6000000 ,cutoff: 512000 ,time/10: 290 ms
+cutoff：512000		10times Time:2909ms
+arraySize: 6000000 ,cutoff: 1024000 ,time/10: 245 ms
+cutoff：1024000		10times Time:2456ms
+arraySize: 6000000 ,cutoff: 2048000 ,time/10: 308 ms
+cutoff：2048000		10times Time:3086ms
+arraySize: 7000000 ,cutoff: 1000 ,time/10: 1472 ms
+cutoff：1000		10times Time:14727ms
+arraySize: 7000000 ,cutoff: 2000 ,time/10: 895 ms
+cutoff：2000		10times Time:8955ms
+arraySize: 7000000 ,cutoff: 4000 ,time/10: 658 ms
+cutoff：4000		10times Time:6584ms
+arraySize: 7000000 ,cutoff: 8000 ,time/10: 582 ms
+cutoff：8000		10times Time:5827ms
+arraySize: 7000000 ,cutoff: 16000 ,time/10: 546 ms
+cutoff：16000		10times Time:5462ms
+arraySize: 7000000 ,cutoff: 32000 ,time/10: 554 ms
+cutoff：32000		10times Time:5545ms
+arraySize: 7000000 ,cutoff: 64000 ,time/10: 597 ms
+cutoff：64000		10times Time:5976ms
+arraySize: 7000000 ,cutoff: 128000 ,time/10: 609 ms
+cutoff：128000		10times Time:6091ms
+arraySize: 7000000 ,cutoff: 256000 ,time/10: 534 ms
+cutoff：256000		10times Time:5340ms
+arraySize: 7000000 ,cutoff: 512000 ,time/10: 351 ms
+cutoff：512000		10times Time:3511ms
+arraySize: 7000000 ,cutoff: 1024000 ,time/10: 287 ms
+cutoff：1024000		10times Time:2874ms
+arraySize: 7000000 ,cutoff: 2048000 ,time/10: 369 ms
+cutoff：2048000		10times Time:3694ms
+arraySize: 8000000 ,cutoff: 1000 ,time/10: 1555 ms
+cutoff：1000		10times Time:15550ms
+arraySize: 8000000 ,cutoff: 2000 ,time/10: 1004 ms
+cutoff：2000		10times Time:10041ms
+arraySize: 8000000 ,cutoff: 4000 ,time/10: 730 ms
+cutoff：4000		10times Time:7309ms
+arraySize: 8000000 ,cutoff: 8000 ,time/10: 660 ms
+cutoff：8000		10times Time:6601ms
+arraySize: 8000000 ,cutoff: 16000 ,time/10: 631 ms
+cutoff：16000		10times Time:6317ms
+arraySize: 8000000 ,cutoff: 32000 ,time/10: 664 ms
+cutoff：32000		10times Time:6646ms
+arraySize: 8000000 ,cutoff: 64000 ,time/10: 661 ms
+cutoff：64000		10times Time:6613ms
+arraySize: 8000000 ,cutoff: 128000 ,time/10: 694 ms
+cutoff：128000		10times Time:6946ms
+arraySize: 8000000 ,cutoff: 256000 ,time/10: 577 ms
+cutoff：256000		10times Time:5771ms
+arraySize: 8000000 ,cutoff: 512000 ,time/10: 393 ms
+cutoff：512000		10times Time:3939ms
+arraySize: 8000000 ,cutoff: 1024000 ,time/10: 327 ms
+cutoff：1024000		10times Time:3276ms
+arraySize: 8000000 ,cutoff: 2048000 ,time/10: 412 ms
+cutoff：2048000		10times Time:4125ms
+arraySize: 9000000 ,cutoff: 1000 ,time/10: 3280 ms
+cutoff：1000		10times Time:32808ms
+arraySize: 9000000 ,cutoff: 2000 ,time/10: 1814 ms
+cutoff：2000		10times Time:18141ms
+arraySize: 9000000 ,cutoff: 4000 ,time/10: 1201 ms
+cutoff：4000		10times Time:12014ms
+arraySize: 9000000 ,cutoff: 8000 ,time/10: 892 ms
+cutoff：8000		10times Time:8923ms
+arraySize: 9000000 ,cutoff: 16000 ,time/10: 795 ms
+cutoff：16000		10times Time:7951ms
+arraySize: 9000000 ,cutoff: 32000 ,time/10: 746 ms
+cutoff：32000		10times Time:7460ms
+arraySize: 9000000 ,cutoff: 64000 ,time/10: 763 ms
+cutoff：64000		10times Time:7636ms
+arraySize: 9000000 ,cutoff: 128000 ,time/10: 743 ms
+cutoff：128000		10times Time:7430ms
+arraySize: 9000000 ,cutoff: 256000 ,time/10: 772 ms
+cutoff：256000		10times Time:7725ms
+arraySize: 9000000 ,cutoff: 512000 ,time/10: 641 ms
+cutoff：512000		10times Time:6413ms
+arraySize: 9000000 ,cutoff: 1024000 ,time/10: 441 ms
+cutoff：1024000		10times Time:4411ms
+arraySize: 9000000 ,cutoff: 2048000 ,time/10: 374 ms
+cutoff：2048000		10times Time:3741ms
+arraySize: 9000000 ,cutoff: 4096000 ,time/10: 467 ms
+cutoff：4096000		10times Time:4678ms
+arraySize: 10000000 ,cutoff: 1000 ,time/10: 3090 ms
+cutoff：1000		10times Time:30904ms
+arraySize: 10000000 ,cutoff: 2000 ,time/10: 1997 ms
+cutoff：2000		10times Time:19979ms
+arraySize: 10000000 ,cutoff: 4000 ,time/10: 1308 ms
+cutoff：4000		10times Time:13086ms
+arraySize: 10000000 ,cutoff: 8000 ,time/10: 1009 ms
+cutoff：8000		10times Time:10092ms
+arraySize: 10000000 ,cutoff: 16000 ,time/10: 836 ms
+cutoff：16000		10times Time:8366ms
+arraySize: 10000000 ,cutoff: 32000 ,time/10: 800 ms
+cutoff：32000		10times Time:8004ms
+arraySize: 10000000 ,cutoff: 64000 ,time/10: 779 ms
+cutoff：64000		10times Time:7794ms
+arraySize: 10000000 ,cutoff: 128000 ,time/10: 883 ms
+cutoff：128000		10times Time:8830ms
+arraySize: 10000000 ,cutoff: 256000 ,time/10: 842 ms
+cutoff：256000		10times Time:8425ms
+arraySize: 10000000 ,cutoff: 512000 ,time/10: 863 ms
+cutoff：512000		10times Time:8633ms
+arraySize: 10000000 ,cutoff: 1024000 ,time/10: 483 ms
+cutoff：1024000		10times Time:4833ms
+arraySize: 10000000 ,cutoff: 2048000 ,time/10: 408 ms
+cutoff：2048000		10times Time:4085ms
+arraySize: 10000000 ,cutoff: 4096000 ,time/10: 530 ms
+cutoff：4096000		10times Time:5301ms
+Starting to write to file
+Write to: ./src/16threads-result.csv
+106
